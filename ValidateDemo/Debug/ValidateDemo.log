@@ -1,0 +1,10 @@
+﻿  main.cpp
+c:\users\terrence\documents\visual studio 2013\projects\opencv2pro\validatedemo\validatedemo\contourdetect.h(96): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\terrence\documents\visual studio 2013\projects\opencv2pro\validatedemo\validatedemo\contourdetect.h(124): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\terrence\documents\visual studio 2013\projects\opencv2pro\validatedemo\validatedemo\contourdetect.h(139): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\users\terrence\documents\visual studio 2013\projects\opencv2pro\validatedemo\validatedemo\contourdetect.h(140): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\users\terrence\documents\visual studio 2013\projects\opencv2pro\validatedemo\validatedemo\contourdetect.h(147): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\terrence\documents\visual studio 2013\projects\opencv2pro\validatedemo\validatedemo\contourdetect.h(149): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\terrence\documents\visual studio 2013\projects\opencv2pro\validatedemo\validatedemo\bgsubtractor.h(16): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\terrence\documents\visual studio 2013\projects\opencv2pro\validatedemo\validatedemo\tubedenoise.h(45): warning C4018: “<”: 有符号/无符号不匹配
+  ValidateDemo.vcxproj -> C:\Users\Terrence\Documents\Visual Studio 2013\Projects\Opencv2Pro\ValidateDemo\Debug\ValidateDemo.exe
